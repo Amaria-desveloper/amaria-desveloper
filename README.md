@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+примеры с адаптивной вёрсткой <br/>
+https://amaria-desveloper.github.io/8-aleksandrova-bicycles/ </br>
+https://amaria-desveloper.github.io/russian-travel/
+
+продолжаю активно изучать java-script </br>
+https://amaria-desveloper.github.io/mesto/
