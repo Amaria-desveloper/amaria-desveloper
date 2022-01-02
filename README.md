@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет 👋
 
 <!--
 **Amaria-desveloper/amaria-desveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 https://amaria-desveloper.github.io/8-aleksandrova-bicycles/ </br>
 https://amaria-desveloper.github.io/russian-travel/
 
-продолжаю активно изучать java-script </br>
+javaScript </br>
 https://amaria-desveloper.github.io/mesto/
